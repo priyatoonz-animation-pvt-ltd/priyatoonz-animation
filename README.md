@@ -1,6 +1,7 @@
 
 **Artificial Intelligence (AI) Deployment Solutions**
 
+
 [After the industrial revolution, information revolution changed the
 planet earth. But lot of data generated during information revolution
 and several magnitude higher data than the past to be generated in
@@ -24,8 +25,8 @@ more details on ONNX, please visit:
 
 
 [Our team can also support clients in training models with different AI
-research and training platforms compatible with
-ONNX.]{style="font-weight: normal"}
+research and training platforms compatible with ONNX. For the moment we
+support Caffe only.]{style="font-weight: normal"}
 
 
 **1. AI Deployment Software Library for iOS and Android**
@@ -93,11 +94,12 @@ further increase in speed and decrease in per deployment cost provided
 the chips are purchased in volumes.
 
 
-[]{#__DdeLink__50_2679174470} **We provide time-limited non-commercial
-license for use of our AI IPCores (With runtime limited to 1 hour from
-device power-on) free of cost for academic or non-commercial users who
-work on our Priyatoonz** **repositories based** **open source projects.
-Please visit our github account
+[]{#__DdeLink__73_1980708141}[]{#__DdeLink__50_2679174470} **We provide
+time-limited non-commercial license for use of our** **Anasim
+Processor** **AI IPCores (With runtime limited to 1 hour from device
+power-on) free of cost for academic or non-commercial users who work on
+our Priyatoonz repositories based open source projects. Please visit our
+github account
 (**[[[**https://github.com/DSP-Channel**](https://github.com/DSP-Channel)]{.underline}]{lang="zxx"}**)
 for more details on Priyatoonz Open Source Projects. Contact at**
 [[[**charu\@priyatooz.com**](mailto:charu@priyatooz.com)]{.underline}]{lang="zxx"}
@@ -106,16 +108,15 @@ downloads and visit**
 [[[**www.priyatoonz.com**](http://www.priyatoonz.com/)]{.underline}]{lang="zxx"}
 **for more details. You may contact at**
 [[[**cto\@anasim.in**](mailto:cto@anasim.in)]{.underline}]{lang="zxx"}
-**for new AI Delpoyment IPCores and Software Library related development
-work.**
+**for new** **Anasim Processor** **AI IPCores and Software Library
+related development work.**
 
 
 *Marketing Rights: Priyatoonz Animation Pvt Ltd
 (*[[[*www.priyatoonz.com*](http://www.priyatoonz.com/)]{.underline}]{lang="zxx"}*)*
 
-*Copy Rights: Aimfin Consultants Pvt Ltd
-(*[[[*www.anasim.in*](http://www.anasim.in/)]{.underline}]{lang="zxx"}*)*
+*Anasim Processor* *Copy Rights: Aimfin Consultants Pvt Ltd
+(*[[***[https://github.com/DSP-Channe](https://github.com/DSP-Channel)/***]{.underline}]{lang="zxx"}[[***dsp-and-data-science***]{.underline}]{lang="zxx"}*)*
 
 *Design & Development: Charu Kanzehr*
-
 
