@@ -95,11 +95,10 @@ the chips are purchased in volumes.
 
 
 []{#__DdeLink__73_1980708141}[]{#__DdeLink__50_2679174470} **We provide
-time-limited non-commercial license for use of our** **Anasim
-Processor** **AI IPCores (With runtime limited to 1 hour from device
-power-on) free of cost for academic or non-commercial users who work on
-our Priyatoonz repositories based open source projects. Please visit our
-github account
+time-limited non-commercial license for use of our AI IPCores (With
+runtime limited to 1 hour from device power-on) free of cost for
+academic or non-commercial users who work on our Priyatoonz repositories
+based open source projects. Please visit our github account
 (**[[[**https://github.com/DSP-Channel**](https://github.com/DSP-Channel)]{.underline}]{lang="zxx"}**)
 for more details on Priyatoonz Open Source Projects. Contact at**
 [[[**charu\@priyatooz.com**](mailto:charu@priyatooz.com)]{.underline}]{lang="zxx"}
@@ -108,15 +107,15 @@ downloads and visit**
 [[[**www.priyatoonz.com**](http://www.priyatoonz.com/)]{.underline}]{lang="zxx"}
 **for more details. You may contact at**
 [[[**cto\@anasim.in**](mailto:cto@anasim.in)]{.underline}]{lang="zxx"}
-**for new** **Anasim Processor** **AI IPCores and Software Library
-related development work.**
+**for new AI Delpoyment IPCores and Software Library related development
+work.**
 
 
 *Marketing Rights: Priyatoonz Animation Pvt Ltd
 (*[[[*www.priyatoonz.com*](http://www.priyatoonz.com/)]{.underline}]{lang="zxx"}*)*
 
-*Anasim Processor* *Copy Rights: Aimfin Consultants Pvt Ltd
-(*[[***[https://github.com/DSP-Channe](https://github.com/DSP-Channel)/***]{.underline}]{lang="zxx"}[[***dsp-and-data-science***]{.underline}]{lang="zxx"}*)*
+*Copy Rights: Aimfin Consultants Pvt Ltd
+(*[[***https://github.com/DSP-Channel/DSP-and-Data-Science***]{.underline}]{lang="zxx"}*)*
 
 *Design & Development: Charu Kanzehr*
 
