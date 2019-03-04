@@ -49,7 +49,7 @@ compatible with ONNX. For the moment we support Caffe only.</span>
 
   
 
-**Application:** Augmented Reality
+**Application:** Augmented Reality (AR)
 
   
 
@@ -67,7 +67,7 @@ is highly optimized for ARM processor.
 **Compatibility:** ONNX, BeagleBone, RaspBerry Pi, Embedded FreeBSD and
 Linux
 
-**Application:** Edge Devices for IoT
+**Application:** Edge Devices
 
 Preprocess IoT data at edge devices to reduce latency and computational
 loads at mobile phones and cloud. This solution is highly optimized for
@@ -103,7 +103,8 @@ deployed at cloud according to customers requirements.
 
   
 
-**Application:** Industrial Computer Vision, Edge Devices
+**Application:** Industrial Computer Vision, IoT Devices, Edge Devices,
+Cloud
 
   
 
@@ -122,10 +123,11 @@ volumes.
   
 
 <span id="__DdeLink__73_1980708141"></span><span id="__DdeLink__50_2679174470"></span>
-**We provide time-limited non-commercial license for use of our AI
-IPCores (With runtime limited to 1 hour from device power-on) free of
-cost for academic or non-commercial users who work on our Priyatoonz
-repositories based open source projects. Please visit our github account
+**We provide time-limited non-commercial license for use of our**
+**Anasim** **AI IPCores (With runtime limited to 1 hour from device
+power-on) free of cost for academic or non-commercial users who work on
+our Priyatoonz repositories based open source projects. Please visit our
+github account
 (**<span lang="zxx"><span class="underline">[**https://github.com/DSP-Channel**](https://github.com/DSP-Channel)</span></span>**)
 for more details on Priyatoonz Open Source Projects. Contact at**
 <span lang="zxx"><span class="underline">[**charu@priyatooz.com**](mailto:charu@priyatooz.com)</span></span>
